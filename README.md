@@ -1,4 +1,4 @@
 - 👋👀 Hi, I’m @RaghadMor
-- 🌱 I’m currently learning Ruby On Rails
+- 🌱 I’m currently learning Laravel Framework
 - 💞️ I’m open to collaborate on projects to get experience
 - 📫 Contact me RaghadMor99@gmail.com
